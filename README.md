@@ -4,7 +4,7 @@
 
 An end-to-end Excel analysis of 7,043 telecom customers: data cleaning, pivot tables, slicers and an interactive dashboard that shows who churns, why they leave, and where retention efforts should focus.
 
-![Dashboard.png](dashboard.png)
+![Dashboard.png](Dashboard.png)
 
 ---
 
